@@ -9,4 +9,3 @@ describe 'Deli Counter' do
   describe "#take_a_number" do
   take_a_number (katz_deli, "there is nobody in line")
        
-      
